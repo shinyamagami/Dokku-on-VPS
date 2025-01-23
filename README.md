@@ -6,5 +6,5 @@ a $5 plan for 2! CPU, 512MB, and 20GB SSD, whose half is already used from the b
 
 # AWS LightSail to Akamai Linode
 
-I was forced to learn that 10GB was too small for Dokku so that I would have to use, at least, $6 plan on DigitalOcean.
+I happened to learn that 10GB was too small for Dokku so that I would have to use, at least, $6 plan on DigitalOcean.
 It changed my mind, and I decided to use Linode, which offers $5 plan with 25GB SSD. Linode is now owned by Akamai.
