@@ -15,3 +15,8 @@ an application.
 
 When you want to seed with the seed file,
 dokku run rails7-sample bundle exec rake db:migrate db:seed
+
+
+# Useful Commands for Dokku
+
+`docker image ls`
