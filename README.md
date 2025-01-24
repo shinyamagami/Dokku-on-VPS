@@ -19,5 +19,5 @@ dokku run rails7-sample bundle exec rake db:migrate db:seed
 
 # Useful Commands for Dokku
 
-`docker image ls`
+`docker image ls`  
 `docker system prune -a`
