@@ -8,3 +8,6 @@ a $5 plan for 2! CPU, 512MB, and 20GB SSD, whose half is already used from the b
 
 I happened to learn that 10GB was too small for Dokku so that I would have to use, at least, $6 plan on DigitalOcean.
 It changed my mind, and I decided to use Linode, which offers $5 plan with 25GB SSD. Linode is now owned by Akamai.
+
+It seems that we have to install dokku under root. I installed it under an user I created and I couldn't not deploy
+an application. 
