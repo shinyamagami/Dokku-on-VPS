@@ -21,8 +21,8 @@ dokku run rails7-sample bundle exec rake db:migrate db:seed
 
 When Dokku adds unnecesary docker images, disk usage goes full
 
-This lists docker images.
+This lists docker images.  
 `docker image ls`
 
-This gets rid of unused docker images.
+This gets rid of unused docker images.  
 `docker system prune -a`
