@@ -32,5 +32,5 @@ This gets rid of unused docker images.
 
 # Object storage for Active Storage
 
-So most people have to use external service for Active Storage. AWS S3 is the most popular choice because it started early.
+Most people use external service for Active Storage. AWS S3 is the most popular choice because it started early.
 CloudFlare R2 is a new kid on the block and more affordable. I haven't used it yet but seems simpler to use.
