@@ -27,7 +27,8 @@ This lists docker images.
 This gets rid of unused docker images.  
 `sudo docker system prune -a`
 
-
+Connect to database
+`dokku postgres:connect dbname`
 
 
 # Object storage for assets
