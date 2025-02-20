@@ -1,4 +1,5 @@
 # Fly.io is much cheaper than any VPS below
+But we need to bring managed database from somewhere if we don't want to pay.
 
 # AWS LightSail to DigitalOcean
 
