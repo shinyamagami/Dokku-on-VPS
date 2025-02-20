@@ -1,3 +1,5 @@
+# Fly.io is much cheaper than any VPS below
+
 # AWS LightSail to DigitalOcean
 
 The reason I decided to move from LightSail to DigitalOcean is Dokku tells me to use root, which LightSail does not allow me to.
