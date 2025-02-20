@@ -28,7 +28,8 @@ This gets rid of unused docker images.
 `sudo docker system prune -a`
 
 Connect to database  
-`dokku postgres:connect dbname`
+`dokku postgres:connect dbname`  
+We can also edit database with `rails c` if necessary.
 
 
 # Object storage for assets
