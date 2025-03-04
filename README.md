@@ -40,3 +40,9 @@ We can also edit database with `rails c` if necessary.
 Most people use external service for Active Storage. AWS S3 is the most popular choice because it started early.
 CloudFlare R2 is a new kid on the block and more affordable. I haven't used it yet but seems simpler to use.
 We can utilize CDN and object storage from CloudFlare as an one stop solution. Sounds good.
+
+
+# Dokku guides
+
+https://dokku.com/docs/getting-started/installation/  
+https://blog.polettix.it/dokku-your-tiny-paas/  
