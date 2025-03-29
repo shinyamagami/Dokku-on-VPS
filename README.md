@@ -46,3 +46,4 @@ We can utilize CDN and object storage from CloudFlare as an one stop solution. S
 
 https://dokku.com/docs/getting-started/installation/  
 https://blog.polettix.it/dokku-your-tiny-paas/  
+https://uxcal.medium.com/a-guide-to-deploying-rails-with-dokku-on-aliyun-177e8dd839a0  
